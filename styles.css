@@ -11,8 +11,7 @@ body {
     align-items: center;
     width: 50%;
     margin: auto;
-    padding: 50px 0;
-    height: 100%;
+    padding: 50px 0;;
 }
 
 .centered-div {
@@ -20,6 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 100vh;
 }
 
 a {
