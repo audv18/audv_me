@@ -1,0 +1,35 @@
+body {
+    color: white;
+    font-family: 'Courier Prime', monospace;
+    background-image: url(../images/background.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    padding: 50px 0;
+}
+
+.centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.link-div {
+    margin-top: 50px;
+}
+
+a:hover {
+    color: orange;
+}
